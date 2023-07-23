@@ -35,7 +35,7 @@ function App() {
           <ul className=' flex flex-col'>
              <a  className='p-6 max-w-sm mx-auto mb-6  w-80 rounded-xl shadow-md flex items-center space-x-4 outline outline-offset-2 outline-blue-500' href=""> <FaTelegram className='text-3xl text-blue-500 hover:text-fuchsia-400/75'></FaTelegram> <li className='text-xl h font-medium text-pink-300'> -   Grupo  Telegram</li></a>
              <a  className='p-6 max-w-sm mx-auto mb-6 w-80 rounded-xl shadow-md flex items-center space-x-4 outline outline-offset-2 outline-pink-500' href=""> <FaInstagram className='text-3xl text-pink-500 hover:text-fuchsia-400/75'></FaInstagram>   <li className='text-xl h font-medium text-pink-300'>  Instagram </li></a>
-             <a  className='p-6 max-w-sm mx-auto mb-6  w-80 rounded-xl shadow-md flex items-center space-x-4 outline outline-offset-2 outline-sky-500' href=""> <FaTwitter className=' text-3xl text-sky-500'></FaTwitter> <li className='text-xl h font-medium text-pink-300'>   Twiter</li></a>
+             <a  className='p-6 max-w-sm mx-auto mb-6  w-80 rounded-xl shadow-md flex items-center space-x-4 outline outline-offset-2 outline-sky-500' href=""> <FaTwitter className=' text-3xl text-sky-500  hover:text-fuchsia-400/75'></FaTwitter> <li className='text-xl h font-medium text-pink-300'>   Twiter</li></a>
  
         
           </ul>
