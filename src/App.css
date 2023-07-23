@@ -1,0 +1,12 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+
+}
+
+html{
+  background: rgb(50,24,97);
+  background: linear-gradient(180deg, rgba(50,24,97,1) 44%, rgba(181, 65, 216) 100%);
+  filter: blur(100%)}
