@@ -7,6 +7,5 @@
 }
 
 html{
-  background: rgb(50,24,97);
-  background: linear-gradient(180deg, rgba(50,24,97,1) 44%, rgba(181, 65, 216) 100%);
+  background-image: linear-gradient(to right top, #b541d8, #a843d7, #9a44d6, #8c45d5, #7d46d3);
   filter: blur(100%)}
