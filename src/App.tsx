@@ -45,6 +45,9 @@ function App() {
         </div>
       </div>
 
+      <div className='flex justify-center mt-10 '>   
+        <p className=' text-zinc-50'>&copy; 2023 Gabriel</p>
+      </div>
    
     </div>
     </>
