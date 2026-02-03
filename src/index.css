@@ -1,3 +1,17 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+    body {
+        @apply bg-[#030712] text-slate-200 antialiased selection:bg-indigo-500/30;
+        background-image:
+            radial-gradient(at 0% 0%, rgba(79, 70, 229, 0.15) 0px, transparent 50%),
+            radial-gradient(at 100% 100%, rgba(124, 58, 237, 0.15) 0px, transparent 50%);
+        min-height: 100vh;
+    }
+}
+
+* {
+    @apply transition-colors duration-300 ease-in-out;
+}
